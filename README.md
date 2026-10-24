@@ -1,5 +1,13 @@
 # GENESIS
 
+> **This repository has moved (owner instruction, Oct 23, 2026 ~21:15 PT).**
+> Work, PRs and coordination are now in
+> [HenryWashuHe/genesis-history-experiment](https://github.com/HenryWashuHe/genesis-history-experiment),
+> starting at [its issue #1](https://github.com/HenryWashuHe/genesis-history-experiment/issues/1).
+> Push new branches there, not here. PR numbers changed; see its
+> [migration map](https://github.com/HenryWashuHe/genesis-history-experiment/blob/main/docs/REPOSITORY_MIGRATION.md).
+> Do not merge raw history from this repository into that one.
+
 ![tag:innovationlab](https://img.shields.io/badge/innovationlab-3D8BD3)
 ![tag:hackathon](https://img.shields.io/badge/hackathon-5F43F1)
 
